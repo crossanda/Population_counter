@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE a systémové soubory
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
