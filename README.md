@@ -19,4 +19,4 @@ A simple desktop application written in Python for searching countries and displ
 
 ---
 
-*This project was created as a demonstration of working with Python, Tkinter, and APIs.*
+
