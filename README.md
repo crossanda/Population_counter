@@ -1,19 +1,22 @@
-# Informace o Státech - Desktopová Aplikace
+# Country Population - Desktop Application
 
-Jednoduchá desktopová aplikace napsaná v Pythonu pro vyhledávání států a zobrazení jejich aktuální populace. Data jsou načítána z veřejného API [REST Countries](https://restcountries.com/).
+A simple desktop application written in Python for searching countries and displaying their current population. Data is fetched from the public [REST Countries API](https://restcountries.com/).
 
-## Funkce
+## Features
 
-* Zobrazení seznamu všech států světa.
-* Vyhledávání států podle názvu.
-* Zobrazení populace vybraného státu.
+* Displays a list of all countries in the world.
+* Search for countries by name.
+* Displays the population of the selected country.
 
-## Použité Technologie
+## Technologies Used
 
 * **Python 3**
-* **Tkinter** (pro GUI)
-* **ttkthemes** (vzhled)
-* **Requests** (pro komunikaci s API)
-* **REST Countries API v3.1** (zdroj dat)
+* **Tkinter** (for the GUI)
+* **ttkthemes** 
+* **Requests** (for API communication)
+* **REST Countries API v3.1** (data source)
 
-*Tento projekt byl vytvořen jako ukázka práce s Pythonem, Tkinterem a API.*
+
+---
+
+*This project was created as a demonstration of working with Python, Tkinter, and APIs.*
