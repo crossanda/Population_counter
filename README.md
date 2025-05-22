@@ -1,4 +1,4 @@
-# Country Population - Desktop Application
+# Population Counter 
 
 A simple desktop application written in Python for searching countries and displaying their current population. Data is fetched from the public [REST Countries API](https://restcountries.com/).
 
