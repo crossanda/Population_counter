@@ -12,11 +12,8 @@ Jednoduchá desktopová aplikace napsaná v Pythonu pro vyhledávání států a
 
 * **Python 3**
 * **Tkinter** (pro GUI)
-* **ttkthemes** (pro modernější vzhled GUI)
+* **ttkthemes** (vzhled)
 * **Requests** (pro komunikaci s API)
 * **REST Countries API v3.1** (zdroj dat)
-
-## Jak Spustit
-
 
 *Tento projekt byl vytvořen jako ukázka práce s Pythonem, Tkinterem a API.*
